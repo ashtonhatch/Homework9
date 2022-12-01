@@ -28,7 +28,7 @@ return 0;
 
 
 string Aquarium::getAquaristName() {
-    return "Billy";
+    return aquarist_name;
 }
 
 

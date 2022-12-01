@@ -21,8 +21,8 @@ private:
 
 public:
     
-    Aquarium(string aquarist_name){
-        aquarist_name = aquarist_name;
+    Aquarium(string theaquarist_name){
+        aquarist_name = theaquarist_name;
         gallons_used = 0;
         
     };
